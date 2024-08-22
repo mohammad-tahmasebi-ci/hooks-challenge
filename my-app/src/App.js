@@ -6,6 +6,7 @@ function App() {
     <div className={css.App}>
       {/* Add your components here */}
       <Sidebar />
+      <ContentHooks />
     </div>
   );
 }
